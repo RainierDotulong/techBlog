@@ -18,6 +18,6 @@ Start Server;
 
 ## Documentation
 
-Live Deployed Application: [View Application](https://uabc-mvc-tech-blog.herokuapp.com/ 'Live Deploy')
+Live Deployed Application: [View Application](https://tech-blog-node.herokuapp.com/ 'Live Deploy')
 
 ![Screenshot](doc/kewl.png?raw=true 'Proof of Application')
